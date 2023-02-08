@@ -1,0 +1,4 @@
+3
+1 123456 Gabriela gabriela@usp.br
+2 47879123 Jorge jorge@usp.br
+3 654321 Luisa luisa@usp.br

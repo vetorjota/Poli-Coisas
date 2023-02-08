@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1591724318 source:d:\objetos\aula_9_ex2\aula_9_ex2\aluno.cpp
+	"Aluno.h"
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\aluno.h
+	"Pessoa.h"
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\pessoa.h
+	"Perfil.h"
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\perfil.h
+	<iostream>
+	<string>
+	"Publicacao.h"
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\publicacao.h
+	"Perfil.h"
+	<string>
+	<iostream>
+
+1591724318 source:d:\objetos\aula_9_ex2\aula_9_ex2\disciplina.cpp
+	"Disciplina.h"
+	"Evento.h"
+	<string>
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\disciplina.h
+	"Perfil.h"
+	"Professor.h"
+	<string>
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\professor.h
+	"Pessoa.h"
+	"Funcionario.h"
+	<string>
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\funcionario.h
+	<string>
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\evento.h
+	"Publicacao.h"
+	<string>
+
+1591724318 source:d:\objetos\aula_9_ex2\aula_9_ex2\evento.cpp
+	"Evento.h"
+	<string>
+
+1591724318 source:d:\objetos\aula_9_ex2\aula_9_ex2\perfil.cpp
+	"Perfil.h"
+	"Publicacao.h"
+	"Evento.h"
+	<iostream>
+	<string>
+
+1591724318 source:d:\objetos\aula_9_ex2\aula_9_ex2\perfilinexistente.cpp
+	"PerfilInexistente.h"
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\perfilinexistente.h
+	<stdexcept>
+
+1591724318 source:d:\objetos\aula_9_ex2\aula_9_ex2\pessoa.cpp
+	"Pessoa.h"
+
+1591724318 source:d:\objetos\aula_9_ex2\aula_9_ex2\professor.cpp
+	"Professor.h"
+
+1591724318 source:d:\objetos\aula_9_ex2\aula_9_ex2\publicacao.cpp
+	"Publicacao.h"
+	<iostream>
+	<string>
+
+1591730984 source:d:\objetos\aula_9_ex2\aula_9_ex2\redesocial.cpp
+	"RedeSocial.h"
+	<iostream>
+	<string>
+	"PerfilInexistente.h"
+
+1591724318 d:\objetos\aula_9_ex2\aula_9_ex2\redesocial.h
+	<iostream>
+	<string>
+	"Perfil.h"
+
+1591731011 source:d:\objetos\aula_9_ex2\aula_9_ex2\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	"Perfil.h"
+	"RedeSocial.h"
+	"Professor.h"
+	"Disciplina.h"
+	"Aluno.h"
+	"PersistenciaDaRede.h"
+
+1591730963 source:d:\objetos\aula_9_ex2\aula_9_ex2\persistenciadarede.cpp
+	"PersistenciaDaRede.h"
+	<fstream>
+	<iostream>
+	"RedeSocial.h"
+	<string>
+	"Aluno.h"
+	"Perfil.h"
+
+1591729921 d:\objetos\aula_9_ex2\aula_9_ex2\persistenciadarede.h
+	<string>
+	"RedeSocial.h"
+

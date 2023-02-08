@@ -1,0 +1,243 @@
+# depslib dependency file v1.0
+1593142763 source:d:\poli\objetos\aula11\aluno.cpp
+	"Aluno.h"
+
+1592952937 d:\poli\objetos\aula11\aluno.h
+	"Pessoa.h"
+
+1593143160 d:\poli\objetos\aula11\pessoa.h
+	"Perfil.h"
+	"Publicacao.h"
+
+1593052080 d:\poli\objetos\aula11\perfil.h
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	"Publicacao.h"
+
+1592938703 d:\poli\objetos\aula11\publicacao.h
+	"Perfil.h"
+	<string>
+	<iostream>
+
+1593012958 source:d:\poli\objetos\aula11\disciplina.cpp
+	"Disciplina.h"
+	"Evento.h"
+	<string>
+
+1593012958 d:\poli\objetos\aula11\disciplina.h
+	"Perfil.h"
+	"Professor.h"
+	<string>
+
+1592943248 d:\poli\objetos\aula11\professor.h
+	"Pessoa.h"
+	<string>
+
+1592888758 d:\poli\objetos\aula11\evento.h
+	"Publicacao.h"
+	<string>
+
+1592888758 source:d:\poli\objetos\aula11\evento.cpp
+	"Evento.h"
+	<string>
+
+1593053132 source:d:\poli\objetos\aula11\mensagem.cpp
+	"Mensagem.h"
+	<stdexcept>
+
+1592938703 d:\poli\objetos\aula11\mensagem.h
+	"Publicacao.h"
+
+1591724318 source:d:\poli\objetos\aula11\perfilinexistente.cpp
+	"PerfilInexistente.h"
+
+1591724318 d:\poli\objetos\aula11\perfilinexistente.h
+	<stdexcept>
+
+1592958999 source:d:\poli\objetos\aula11\professor.cpp
+	"Professor.h"
+
+1592938703 source:d:\poli\objetos\aula11\publicacao.cpp
+	"Publicacao.h"
+	<iostream>
+	<string>
+
+1593142638 source:d:\poli\objetos\aula11\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	"Perfil.h"
+	"RedeSocial.h"
+	"Professor.h"
+	"Disciplina.h"
+	"Aluno.h"
+	"PersistenciaDaRede.h"
+	"PerfilInexistente.h"
+
+1592967720 d:\poli\objetos\aula11\redesocial.h
+	<iostream>
+	<string>
+	<vector>
+	"Perfil.h"
+
+1592956563 d:\poli\objetos\aula11\persistenciadarede.h
+	<string>
+	"RedeSocial.h"
+
+1593142922 source:d:\poli\objetos\aula11\perfil.cpp
+	"Perfil.h"
+	"Publicacao.h"
+	"Evento.h"
+	"Mensagem.h"
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	<stdexcept>
+
+1593012901 source:d:\poli\objetos\aula11\pessoa.cpp
+	"Pessoa.h"
+
+1593141940 source:d:\poli\objetos\aula11\persistenciadarede.cpp
+	"PersistenciaDaRede.h"
+	<fstream>
+	<iostream>
+	"RedeSocial.h"
+	<string>
+	"Aluno.h"
+	"Disciplina.h"
+	"Professor.h"
+	"Perfil.h"
+
+1593055038 source:d:\poli\objetos\aula11\redesocial.cpp
+	"RedeSocial.h"
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<stdexcept>
+	"PerfilInexistente.h"
+
+1593142763 source:d:\poli\7 setimo semestre\objetos\aula11\aluno.cpp
+	"Aluno.h"
+
+1592952937 d:\poli\7 setimo semestre\objetos\aula11\aluno.h
+	"Pessoa.h"
+
+1593143160 d:\poli\7 setimo semestre\objetos\aula11\pessoa.h
+	"Perfil.h"
+	"Publicacao.h"
+
+1593052080 d:\poli\7 setimo semestre\objetos\aula11\perfil.h
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	"Publicacao.h"
+
+1592938703 d:\poli\7 setimo semestre\objetos\aula11\publicacao.h
+	"Perfil.h"
+	<string>
+	<iostream>
+
+1593012958 source:d:\poli\7 setimo semestre\objetos\aula11\disciplina.cpp
+	"Disciplina.h"
+	"Evento.h"
+	<string>
+
+1593012958 d:\poli\7 setimo semestre\objetos\aula11\disciplina.h
+	"Perfil.h"
+	"Professor.h"
+	<string>
+
+1592943248 d:\poli\7 setimo semestre\objetos\aula11\professor.h
+	"Pessoa.h"
+	<string>
+
+1592888758 d:\poli\7 setimo semestre\objetos\aula11\evento.h
+	"Publicacao.h"
+	<string>
+
+1592888758 source:d:\poli\7 setimo semestre\objetos\aula11\evento.cpp
+	"Evento.h"
+	<string>
+
+1593142638 source:d:\poli\7 setimo semestre\objetos\aula11\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	"Perfil.h"
+	"RedeSocial.h"
+	"Professor.h"
+	"Disciplina.h"
+	"Aluno.h"
+	"PersistenciaDaRede.h"
+	"PerfilInexistente.h"
+
+1592967720 d:\poli\7 setimo semestre\objetos\aula11\redesocial.h
+	<iostream>
+	<string>
+	<vector>
+	"Perfil.h"
+
+1592956563 d:\poli\7 setimo semestre\objetos\aula11\persistenciadarede.h
+	<string>
+	"RedeSocial.h"
+
+1591724318 d:\poli\7 setimo semestre\objetos\aula11\perfilinexistente.h
+	<stdexcept>
+
+1593053132 source:d:\poli\7 setimo semestre\objetos\aula11\mensagem.cpp
+	"Mensagem.h"
+	<stdexcept>
+
+1592938703 d:\poli\7 setimo semestre\objetos\aula11\mensagem.h
+	"Publicacao.h"
+
+1593142922 source:d:\poli\7 setimo semestre\objetos\aula11\perfil.cpp
+	"Perfil.h"
+	"Publicacao.h"
+	"Evento.h"
+	"Mensagem.h"
+	<iostream>
+	<string>
+	<list>
+	<vector>
+	<stdexcept>
+
+1591724318 source:d:\poli\7 setimo semestre\objetos\aula11\perfilinexistente.cpp
+	"PerfilInexistente.h"
+
+1593141940 source:d:\poli\7 setimo semestre\objetos\aula11\persistenciadarede.cpp
+	"PersistenciaDaRede.h"
+	<fstream>
+	<iostream>
+	"RedeSocial.h"
+	<string>
+	"Aluno.h"
+	"Disciplina.h"
+	"Professor.h"
+	"Perfil.h"
+
+1593143160 source:d:\poli\7 setimo semestre\objetos\aula11\pessoa.cpp
+	"Pessoa.h"
+
+1592958999 source:d:\poli\7 setimo semestre\objetos\aula11\professor.cpp
+	"Professor.h"
+
+1592938703 source:d:\poli\7 setimo semestre\objetos\aula11\publicacao.cpp
+	"Publicacao.h"
+	<iostream>
+	<string>
+
+1593055038 source:d:\poli\7 setimo semestre\objetos\aula11\redesocial.cpp
+	"RedeSocial.h"
+	<iostream>
+	<algorithm>
+	<vector>
+	<string>
+	<stdexcept>
+	"PerfilInexistente.h"
+
