@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1593523571 source:d:\poli\objetos\p2-projeto\cliente.cpp
+	"Cliente.h"
+
+1593523571 d:\poli\objetos\p2-projeto\cliente.h
+	<string>
+
+1593530433 source:d:\poli\objetos\p2-projeto\contrato.cpp
+	"Contrato.h"
+	<stdexcept>
+	<iostream>
+
+1593528556 d:\poli\objetos\p2-projeto\contrato.h
+	"Produto.h"
+	"Cliente.h"
+	<vector>
+
+1593527163 d:\poli\objetos\p2-projeto\produto.h
+	<string>
+
+1593526321 source:d:\poli\objetos\p2-projeto\planodeinternet.cpp
+	"PlanoDeInternet.h"
+	<stdexcept>
+	<iostream>
+
+1593527387 d:\poli\objetos\p2-projeto\planodeinternet.h
+	"Produto.h"
+	<string>
+
+1593529696 source:d:\poli\objetos\p2-projeto\produto.cpp
+	"Produto.h"
+	<iostream>
+
+1593529947 source:d:\poli\objetos\p2-projeto\combo.cpp
+	"Combo.h"
+	<stdexcept>
+	<iostream>
+
+1593527865 d:\poli\objetos\p2-projeto\combo.h
+	"PlanoDeInternet.h"
+	"PlanoDeTelefone.h"
+	"Produto.h"
+	<string>
+
+1593527387 d:\poli\objetos\p2-projeto\planodetelefone.h
+	"Produto.h"
+	<string>
+
+1593529994 source:d:\poli\objetos\p2-projeto\planodetelefone.cpp
+	"PlanoDeTelefone.h"
+	<stdexcept>
+	<iostream>
+
+1593530087 source:d:\poli\objetos\p2-projeto\main.cpp
+	<iostream>
+	"Contrato.h"
+	"PlanoDeInternet.h"
+	"PlanoDeTelefone.h"
+	"Produto.h"
+	"Combo.h"
+
